@@ -1,0 +1,21 @@
+# Dependencias y compilaciones
+node_modules/
+dist/
+dist-ssr/
+
+# Logs
+logs/
+*.log
+
+# Configuración local y variables de entorno
+*.local
+.env
+.env.*
+!.env.example
+
+# Editor y sistema operativo
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
